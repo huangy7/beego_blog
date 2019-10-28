@@ -1,1 +1,2 @@
 # beego_blog
+# FIXED
